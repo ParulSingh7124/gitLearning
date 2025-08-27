@@ -3,3 +3,4 @@ Test file2
 Test file3
 This is restore
 Line1
+Line2
