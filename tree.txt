@@ -1,4 +1,0 @@
-Test file1
-Test file2
-Test file3
-This is restore
